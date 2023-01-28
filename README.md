@@ -1,2 +1,2 @@
-# Tiplr-Calc
+# Tipplr-Calc
 A tip calculator app
